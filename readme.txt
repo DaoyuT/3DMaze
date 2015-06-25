@@ -21,4 +21,27 @@ Operations:
 		sink:		x
 
   
-hint: mouse click might help :) 
+q
+
+
+
+w
+q
+WQ
+w
+q
+www
+q
+q
+
+A
+A
+B
+D
+D
+B
+C
+B
+D
+B
+hint  mouse click might help :) 
