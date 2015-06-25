@@ -20,28 +20,4 @@ Operations:
 		float:		z   
 		sink:		x
 
-  
-q
-
-
-
-w
-q
-WQ
-w
-q
-www
-q
-q
-
-A
-A
-B
-D
-D
-B
-C
-B
-D
-B
-hint  mouse click might help :) 
+Hint: mouse click might help :) 
